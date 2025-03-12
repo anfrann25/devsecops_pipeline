@@ -1,5 +1,3 @@
-## Scan a docker image -> get a SARIF/SBOM report
-
 name: SBOM/SCA Scout
 
 on:
